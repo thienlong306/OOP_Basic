@@ -1,0 +1,5 @@
+Khachhangcanhan, 1, B, 10, 11
+Dailycap1, 2, A, 10 ,6
+Khachhangcanhan, 3, C, 10, 12
+Khachhangcongty, 4, D, 15, 101
+Dailycap1, 5, E, 13 ,7
