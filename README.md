@@ -1,4 +1,4 @@
 # OOP_Basic
  <p align="center">
-    <img src="img.png" alt="">
+    <img src="img/img.png" alt="">
 </p>
